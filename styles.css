@@ -8,6 +8,10 @@
 .body{
     
 }
+.c-anti-link{
+  text-decoration: none;
+
+}
 .title1{
     background-color: red;
     color: white;
